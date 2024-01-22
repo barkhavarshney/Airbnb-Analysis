@@ -22,27 +22,27 @@ Build a comprehensive dashboard using Tableau or Power BI, combining various vis
 
 
 Approach: 
+
 MongoDB Connection and Data Retrieval:
-
 Establish a connection to the MongoDB Atlas database and retrieve the necessary data for analysis.
+
 Data Cleaning and Preparation:
-
 Clean the dataset by handling missing values, removing duplicates, and ensuring data type consistency.
+
 Geospatial Visualization:
-
 Develop a Streamlit web application for interactive maps showcasing the distribution of Airbnb listings.
+
 Price Analysis and Visualization:
-
 Analyze and visualize price variations across different dimensions using dynamic plots.
+
 Availability Analysis by Season:
-
 Explore availability patterns across seasons, visualizing occupancy rates and demand fluctuations.
+
 Location-Based Insights:
-
 Investigate location-based insights by extracting and visualizing data for specific regions or neighborhoods.
+
 Interactive Visualizations:
-
 Create dynamic and interactive visualizations for users to explore specific aspects of the data.
-Dashboard Creation:
 
+Dashboard Creation:
 Build a comprehensive dashboard using Tableau or Power BI, combining visualizations to present key insights.
