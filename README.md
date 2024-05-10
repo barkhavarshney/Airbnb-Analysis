@@ -1,6 +1,6 @@
 # Airbnb-Analysis
 
-## Overview
+# Overview
 
 This project aims to analyze Airbnb data, utilizing Python scripting, data preprocessing, visualization, exploratory data analysis (EDA), Streamlit, MongoDB, and Power BI. The objectives include establishing a MongoDB connection, cleaning and preparing the dataset, developing a Streamlit web application with interactive maps, conducting price analysis and visualization, analyzing availability patterns, investigating location-based insights, creating interactive visualizations, and building a comprehensive dashboard.
 
